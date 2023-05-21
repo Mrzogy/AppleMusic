@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E047138-610E-4403-923D-686C89A06614"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "520D6935-E029-4650-B008-8AC2B466370B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple Music/View/MapKit.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "makeBody(configuration:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "520D6935-E029-4650-B008-8AC2B466370B - 9e76e457c8a24fd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Music.MapKit.body.getter : some"
+                  moduleName = "Apple Music"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrzogymagbool/Desktop/Apple%20Music/Apple%20Music/View/MapKit.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "520D6935-E029-4650-B008-8AC2B466370B - 9e76e457c8a24fd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Music.MapKit.body.getter : some"
+                  moduleName = "Apple Music"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrzogymagbool/Desktop/Apple%20Music/Apple%20Music/View/MapKit.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "520D6935-E029-4650-B008-8AC2B466370B - 9422f90c29356557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Apple_Music.MapKit1.body.getter : some"
+                  moduleName = "Apple Music"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrzogymagbool/Desktop/Apple%20Music/Apple%20Music/View/MapKit.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
